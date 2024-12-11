@@ -1,0 +1,17 @@
+{
+  "env": "dev",
+  "label": "Dev",
+  "SUPPORT_EMAIL": "",
+  "PROJECT_ID": "generator-new-dev",
+  "MESSAGING_SENDER_ID": "737421057347",
+  "STORAGE_BUCKET": "generator-new-dev.firebasestorage.app",
+  "ANDROID_APP_ID": "1:737421057347:android:aaed311507b4088e7fe3f6",
+  "ANDROID_API_KEY": "AIzaSyB0Fk6zHhaXQpoeMqRGvk1FLoyr6nL67KM",
+  "IOS_API_KEY": "AIzaSyClx8Z0b6GS7YwICdqffUBAQ2TQPgotOFE",
+  "IOS_APP_ID": "1:737421057347:ios:50d044b40f7f08687fe3f6",
+  "IOS_BUNDLE_ID": "aaa.dd.testflutter",
+  "IOS_CLIENT_ID": "",
+  "PLAY_STORE_APP_URL": "",
+  "APP_STORE_APP_URL": "",
+  "GOOGLE_MAPS_API_KEY": ""
+}
